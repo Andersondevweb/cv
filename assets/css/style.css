@@ -1,0 +1,63 @@
+nav {
+  width: 25%;
+  height: 254vh;
+  background: darkred;
+  margin-top: 20vh;
+  position: absolute;
+  text-align: center;
+  box-sizing: border-box;
+  padding-bottom: 20%;
+}
+
+#page1 {
+  margin-left: 25%;
+  flex-direction: row;
+  text-align: center;
+  background: darkgray;
+  border: black;
+  height: auto;
+  width: 75%;
+  position: absolute;
+  margin-top: 20vh;
+  padding-top: 30vh;
+  /* margin-bottom: 20%; */
+}
+
+p {
+  font-size: 15px;
+  padding-bottom: 20%;
+  font-display: auto;
+  color: white;
+}
+
+h1 {
+  font-size: medium;
+  color: white;
+}
+
+h2 {
+  font-size: medium;
+  color: white;
+}
+.carre {
+  background: black;
+  width: 25%;
+  height: 100vh;
+  position: absolute;
+}
+.name {
+  font-size: 45px;
+  text-align: center;
+  margin: auto;
+}
+.barre {
+  background: gray;
+  margin-left: 25%;
+  height: 100vh;
+  width: 75%;
+  position: absolute;
+}
+.alter {
+  font-size: 30px;
+  text-align: center;
+}
